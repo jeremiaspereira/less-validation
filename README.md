@@ -12,7 +12,7 @@ Order styles
   https://www.npmjs.com/package/stylelint-order
 
 
-É necessario ter Nodejs e npm instalado.
+It is necessary to have Nodejs and npm installed.
 
-Rodar "npm install" para instalar o modulo "stylelint-order"
+Run "npm install" to install the "stylelint-order" module
 
